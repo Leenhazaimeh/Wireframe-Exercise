@@ -22,6 +22,7 @@ body {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     padding: 15px;
+    position: relative;
   }
 #F0 a {
 margin-right: 60px;
@@ -54,6 +55,7 @@ margin-left: 50px;
     margin-left:75px;
     padding-left: 30px;
     
+    
 
 }
 #F3 {
@@ -69,26 +71,38 @@ margin-left: 50px;
     height: 375px;
     margin-left:75px;
     padding-right: 20px;
+    margin-right: 50px;
     
 }
 
 #F5 {
-margin-left:100px;
-padding-top: 20px;
+    padding: 10px;
+    float: right;
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+clear: both;
 
 }
-p {
-padding-top:60px;
-    margin-left: 200px;
-}
-h4{
 
-    margin-left: 200px;
+#F6{
+
+    width:480px;
+    height:400px;
+    margin-left:100px;
 }
+
+
+
 
 button {
-    margin-left:200px;
+    
+    background-color:black ;
+    color: beige;
+    height: 30px;
+    width: unset;
 }
+
 
 footer {
     background: rgb(48, 46, 46);

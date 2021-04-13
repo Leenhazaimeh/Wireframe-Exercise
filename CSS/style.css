@@ -1,11 +1,21 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
 header {
+    position: relative;
 text-align: center;
-padding: 30px;
+padding:14px;
 background: rgb(48, 46, 46);
+
 }
 header img {
     width: 200px;
     height: 70px;
+    align-items: center;
+    
 }
 body {
     background-color:floralwhite;
@@ -14,9 +24,11 @@ body {
     padding: 15px;
   }
 #F0 a {
-margin-right: 10px;
+margin-right: 60px;
 display: inline-block;
 text-decoration: none ;
+color: honeydew;
+
 
 }
 
@@ -24,32 +36,60 @@ text-decoration: none ;
 display: inline-block;
 padding: 2px;
 text-decoration: non;
+margin-left: 50px;
+
 }
 
 #F1 {
     width:960px;
     height: 450px;
-
+    margin-left:150px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    
 }
 #F2 {
     width: 300px;
     height: 375px;
-    margin-left: 100px;
+    margin-left:75px;
+    padding-left: 30px;
+    
 
 }
 #F3 {
 
     width: 300px;
     height: 375px;
-    margin-block: 200px;
+    margin-left:75px;
+    
+}
+#F4{
+
+    width: 300px;
+    height: 375px;
+    margin-left:75px;
+    padding-right: 20px;
+    
 }
 
-#F4 {
+#F5 {
+margin-left:100px;
+padding-top: 20px;
 
-    width: 480px;
-    height: 400px;
-    margin-left: 100px;
 }
+p {
+padding-top:60px;
+    margin-left: 200px;
+}
+h4{
+
+    margin-left: 200px;
+}
+
+button {
+    margin-left:200px;
+}
+
 footer {
     background: rgb(48, 46, 46);
     padding-bottom: 100px;

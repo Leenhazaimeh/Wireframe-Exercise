@@ -40,69 +40,67 @@ text-decoration: non;
 margin-left: 50px;
 
 }
+main div img{
+    position: relative;
+    top :20px; 
+    left:180px;
 
-#F1 {
-    width:960px;
-    height: 450px;
-    margin-left:150px;
-    padding-bottom: 20px;
-    margin-top: 20px;
+}
+main div img{
+    margin-top: 30px;
+    margin-right: 26px;
+}
+main aside{
+    margin-left: 180px;
+    margin-top: 40px;
+}
+main article{
+    width: 450px;
+    height: 300px;
+    position: relative;
+    float: right;
+    right: 130px;
+    bottom: 407px;
     
     
 }
-#F2 {
-    width: 300px;
-    height: 375px;
-    margin-left:75px;
-    padding-left: 30px;
-    
-    
-
-}
-#F3 {
-
-    width: 300px;
-    height: 375px;
-    margin-left:75px;
-    
-}
-#F4{
-
-    width: 300px;
-    height: 375px;
-    margin-left:75px;
-    padding-right: 20px;
-    margin-right: 50px;
-    
+h2{
+    font-size: x-large;
+    font-family:serif;
+    font-weight: bold;
+    font-display:inherit;
 }
 
-#F5 {
-    padding: 10px;
+ main button{
+float: right;
+width: 150px; 
+ height: 50px;
+position: relative;
+right: 300px;
+bottom: 55px;
+background-color: black;
+color: white;
+}
+
+
+
+
+
+
+    
   
-    display: inline-block;
-    width: 45%;
-    margin: 10px;
-clear: both;
-
-}
-
-#F6{
-
-    width:480px;
-    height:400px;
-    margin-left:100px;
-}
 
 
 
-
-button {
     
-    background-color:black ;
-    color: beige;
-    height: 30px;
-    width: unset;
-}
+    
+
+
+
+
+
+
+
 
 
 footer {
